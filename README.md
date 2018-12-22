@@ -4,6 +4,8 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+#### This repository contains many deep learning projects other than Dog breed classification, different projects are in different folder, with their own .readme files
+
 
 ## Project Overview
 
